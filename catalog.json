@@ -1,0 +1,64 @@
+{
+  "sounds": [
+    {
+      "id": "tavern_ambience",
+      "scene": "Busy Tavern",
+      "label": "Tavern Crowd & Hearth",
+      "kind": "ambience",
+      "loop": true,
+      "duration_seconds": 30,
+      "prompt_influence": 0.4,
+      "prompt": "Warm crowded medieval tavern ambience, low murmur of voices, clinking mugs, crackling hearth fire"
+    },
+    {
+      "id": "tavern_door",
+      "scene": "Busy Tavern",
+      "label": "Heavy Oak Door",
+      "kind": "sfx",
+      "loop": false,
+      "duration_seconds": null,
+      "prompt_influence": 0.4,
+      "prompt": "Heavy oak tavern door creaking open and thudding shut"
+    },
+    {
+      "id": "passage_ambience",
+      "scene": "Deep Castle Passage",
+      "label": "Damp Stone Corridor",
+      "kind": "ambience",
+      "loop": true,
+      "duration_seconds": 30,
+      "prompt_influence": 0.4,
+      "prompt": "Damp underground stone corridor ambience, slow water drips, faint echoing draft"
+    },
+    {
+      "id": "passage_gate",
+      "scene": "Deep Castle Passage",
+      "label": "Rusty Iron Gate",
+      "kind": "sfx",
+      "loop": false,
+      "duration_seconds": null,
+      "prompt_influence": 0.4,
+      "prompt": "Rusty iron gate scraping slowly open in a stone tunnel"
+    },
+    {
+      "id": "market_ambience",
+      "scene": "Busy City Market",
+      "label": "Bustling Market Square",
+      "kind": "ambience",
+      "loop": true,
+      "duration_seconds": 30,
+      "prompt_influence": 0.4,
+      "prompt": "Bustling outdoor cobblestone market ambience, distant merchant calls, footsteps, fabric rustling"
+    },
+    {
+      "id": "market_coins",
+      "scene": "Busy City Market",
+      "label": "Coin Pouch on Wood",
+      "kind": "sfx",
+      "loop": false,
+      "duration_seconds": null,
+      "prompt_influence": 0.4,
+      "prompt": "Leather coin pouch jingling as coins drop onto a wooden table"
+    }
+  ]
+}
