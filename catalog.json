@@ -59,6 +59,16 @@
       "duration_seconds": null,
       "prompt_influence": 0.4,
       "prompt": "Leather coin pouch jingling as coins drop onto a wooden table"
+    },
+    {
+      "id": "forest_journey_ambiance",
+      "scene": "forest journey",
+      "label": "ambiance",
+      "kind": "ambience",
+      "loop": true,
+      "duration_seconds": 20.0,
+      "prompt_influence": 0.4,
+      "prompt": "background ambiance of walking through a dense forest with branches creaking and wind blowing in the distance. Occasionally have a wolf or owl making noise far away and birds softly chirping"
     }
   ]
 }
